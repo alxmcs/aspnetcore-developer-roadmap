@@ -10,7 +10,7 @@
 - [Read-me in Japanese](ReadMe.ja.md)
 - [Read-me in Russian](ReadMe.ru.md)
 
-> Roadmap to becoming an [ASP.NET Core](https://docs.microsoft.com/aspnet/core) developer in 2025:
+> Roadmap to becoming an [ASP.NET Core](https://docs.microsoft.com/aspnet/core) developer in 2026:
 
 Below you can find a chart demonstrating the paths that you can take and the libraries that you would want to learn to become an ASP.NET Core developer. I made this chart as a tip for everyone who asks me, "What should I learn next as an ASP.NET Core developer?"
 
@@ -34,12 +34,28 @@ If you like or are using this project to learn or start your solution, please gi
    - What is [TLS](https://www.cloudflare.com/learning/ssl/transport-layer-security-tls/)?
    - What is [SSL](https://www.cloudflare.com/learning/ssl/what-is-ssl/)?
    - Don't be afraid of using Google, [Power Searching with Google](http://www.powersearchingwithgoogle.com)
-   - Start using [ChatGPT](https://chat.openai.com/chat)
    - [Read a few books about algorithms and data structures](https://www.interviewbit.com/blog/data-structures-and-algorithms-books)
+   - AI / LLMs
+      - LLMs
+         - [OpenAI (ChatGPT)](https://chatgpt.com)
+         - [Claude](https://claude.ai)
+         - [Gemini](https://gemini.google.com)
+      - IDE / Tools
+         - [Cursor](https://cursor.com/home)
+            - Modes
+               - Agent
+               - Plan
+               - Ask
+            - [MCPs](https://cursor.com/docs/context/mcp)
+         - [Claude Code](https://code.claude.com/docs/en/overview)
+         - [Lovable](https://lovable.dev)
+      - Libraries
+         - [Semantic Kernel](https://github.com/microsoft/semantic-kernel)
+         - [OpenAI .NET](https://github.com/openai/openai-dotnet)
 
 2. C#
-   - [C#](https://www.pluralsight.com/paths/c-12)
-   - [.NET 8](https://devblogs.microsoft.com/dotnet/announcing-dotnet-8)
+   - [C#](https://www.pluralsight.com/paths/c-10)
+   - [.NET 10](https://devblogs.microsoft.com/dotnet/announcing-dotnet-10)
    - [.NET CLI](https://docs.microsoft.com/dotnet/core/tools)
    - [StyleCop rules](https://github.com/DotNetAnalyzers/StyleCopAnalyzers/blob/master/DOCUMENTATION.md)
 
@@ -294,11 +310,7 @@ If you like or are using this project to learn or start your solution, please gi
        - [Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
        - [.NET MAUI](https://github.com/dotnet/maui)
 
-21. AI / LLMs
-    - [Semantic Kernel](https://github.com/microsoft/semantic-kernel)
-    - [OpenAI .NET](https://github.com/openai/openai-dotnet)
-
-22. Good to Know
+21. Good to Know
     - [Scalar](https://github.com/scalar/scalar)
     - [MediatR](https://github.com/jbogard/MediatR)
     - [Fluent Validation](https://github.com/JeremySkinner/FluentValidation)
